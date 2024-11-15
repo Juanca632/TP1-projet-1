@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "Juan",
+        "lastname": "Restrepo",
+        "role": "Admin"
+    },
+    {
+        "user_id": "4049779a-a28f-11ef-ad0d-00155dc3d402",
+        "name": "dsfdsfda",
+        "lastname": "string",
+        "role": "string"
+    },
+    {
+        "user_id": "479a3c68-0b04-4050-8c0b-0b1c09668afb",
+        "name": "abdoul",
+        "lastname": "ali",
+        "role": "admin"
+    }
+]
